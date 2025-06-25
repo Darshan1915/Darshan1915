@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Full Stack Developement, Data Structures and Algorithms**
 
-- 💬 Ask me about **MERN Stack**
-
 - 📫 How to reach me **darshanbankar1915@gmail.com**
 
 - 📄 Know about my experiences [#](#)
